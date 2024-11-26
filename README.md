@@ -12,6 +12,7 @@
 - sudo apt update
 - sudo apt install python3 python3-pip
 - pip3 install python-telegram-bot
+
   `*Jika tidak bisa maka aktivkan venv*`
   # - installasi venv linux
   - sudo apt update
