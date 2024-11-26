@@ -6,12 +6,16 @@
 - pkg install pip
 - pkg install python-pip
 - pip install python-telegram-bot
+- cd SpamTele
+- python main.py
 
 # - Linux 
 - python3 --version
 - sudo apt update
 - sudo apt install python3 python3-pip
 - pip3 install python-telegram-bot
+- cd SpamTele
+- python3 main.py
 
   `*Jika tidak bisa maka aktivkan venv*`
   # - installasi venv linux
@@ -27,3 +31,5 @@
 - pip --version
 - pip install python-telegram-bot
 - pip show python-telegram-bot
+- cd SpamTele
+- python main.py
