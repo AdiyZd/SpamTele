@@ -17,7 +17,7 @@
 - cd SpamTele
 - python3 main.py
 
-  `*Jika tidak bisa maka aktivkan venv*`
+  ` * Jika tidak bisa maka aktivkan venv * `
   # - installasi venv linux
   - sudo apt update
   - sudo apt install python3 python3-venv python3-pip
